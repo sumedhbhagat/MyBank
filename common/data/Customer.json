@@ -1,0 +1,93 @@
+[{
+        "userType": "R",
+        "custId": "sumedh",
+        "corpId": "",
+        "city": "PUNE",
+        "branch": "SHIVAJI NAGAR",
+        "bankid": "00998",
+        "password": "sumedh",
+        "email": "sumedh@ev.com",
+        "mobileNo": "9898989891",
+        "firebaseToken": "",
+        "userDetail": {
+            "type": ""
+        },
+        "pan": {
+            "type": "3434343434",
+            "max": 10
+        },
+        "adhar": {
+            "type": "342345345645",
+            "max": 12
+        }
+    },
+    {
+        "userType": "R",
+        "custId": "nikhil",
+        "corpId": "",
+        "city": "PUNE",
+        "branch": "SHIVAJI NAGAR",
+        "bankid": "00998",
+        "password": "nikhil",
+        "email": "nikhil@ev.com",
+        "mobileNo": "9898989891",
+        "firebaseToken": "",
+        "userDetail": {
+            "type": ""
+        },
+        "pan": {
+            "type": "3434343434",
+            "max": 10
+        },
+        "adhar": {
+            "type": "342345345645",
+            "max": 12
+        }
+    },
+    {
+        "userType": "R",
+        "custId": "vidyanand",
+        "corpId": "",
+        "city": "PUNE",
+        "branch": "SHIVAJI NAGAR",
+        "bankid": "00998",
+        "password": "vidyanand",
+        "email": "vidyanand@ev.com",
+        "mobileNo": "9898989891",
+        "firebaseToken": "",
+        "userDetail": {
+            "type": ""
+        },
+        "pan": {
+            "type": "3434343434",
+            "max": 10
+        },
+        "adhar": {
+            "type": "342345345645",
+            "max": 12
+        }
+    },
+    {
+        "userType": "R",
+        "custId": "suhas",
+        "corpId": "",
+        "city": "PUNE",
+        "branch": "SHIVAJI NAGAR",
+        "bankid": "00998",
+        "password": "suhas",
+        "email": "suhas@ev.com",
+        "mobileNo": "9898989891",
+        "firebaseToken": "",
+        "userDetail": {
+            "type": ""
+        },
+        "pan": {
+            "type": "3434343434",
+            "max": 10
+        },
+        "adhar": {
+            "type": "342345345645",
+            "max": 12
+        }
+    }
+]
