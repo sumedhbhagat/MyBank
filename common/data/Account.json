@@ -1,0 +1,1396 @@
+[{
+		"accountId": "010200067",
+		"customerId": "admin",
+		"accountNickName": "Salary Account",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "SBA",
+			"codeDescription": "SAVING BANK A/C"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "totalBalance",
+			"amountDetails": {
+				"amount": 6000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "availableBalance",
+			"amountDetails": {
+				"amount": 6000,
+				"currency": "USD"
+			}
+		}]
+
+	}, {
+		"accountId": "010200068",
+		"userid": "admin",
+		"accountNickName": "Rent Acc",
+		"accountStatus": {
+			"codeType": "DORM",
+			"cmCode": "D",
+			"codeDescription": "Dormant"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "SBA",
+			"codeDescription": "SAVING BANK A/C"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF2",
+		"balances": [{
+			"type": "totalBalance",
+			"amountDetails": {
+				"amount": 20000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "availableBalance",
+			"amountDetails": {
+				"amount": 20000,
+				"currency": "USD"
+			}
+		}]
+	}, {
+		"accountId": "010200099",
+		"userid": "sumedh",
+		"accountNickName": "Restaurant Acc",
+		"accountStatus": {
+			"codeType": "SUSP",
+			"cmCode": "S",
+			"codeDescription": "Suspended"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "SBA",
+			"codeDescription": "SAVING BANK A/C"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF3",
+		"balances": [{
+			"type": "totalBalance",
+			"amountDetails": {
+				"amount": 13000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "availableBalance",
+			"amountDetails": {
+				"amount": 13000,
+				"currency": "USD"
+			}
+		}]
+	}, {
+		"accountId": "010200070",
+		"userid": "sumedh",
+		"accountNickName": "Revenue Acc",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:33",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "SBA",
+			"codeDescription": "SAVING BANK A/C"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF4",
+		"balances": [{
+			"type": "totalBalance",
+			"amountDetails": {
+				"amount": 8000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "availableBalance",
+			"amountDetails": {
+				"amount": 8000,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "010200081",
+		"userid": "nikhil",
+		"accountNickName": "Revenue Acc",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:33",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "CAA",
+			"codeDescription": "CURRENT A/C"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF4",
+		"balances": [{
+			"type": "totalBalance",
+			"amountDetails": {
+				"amount": 8000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "availableBalance",
+			"amountDetails": {
+				"amount": 8000,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "010200072",
+		"userid": "nikhil",
+		"accountNickName": "Salary Account",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "SBA",
+			"codeDescription": "SAVING BANK A/C"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "totalBalance",
+			"amountDetails": {
+				"amount": 10000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "availableBalance",
+			"amountDetails": {
+				"amount": 10000,
+				"currency": "USD"
+			}
+		}]
+	},
+
+	{
+		"accountId": "010200060",
+		"userid": "suhas",
+		"accountNickName": "Home Loan",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "O",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:33",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "LON",
+			"codeDescription": "Loan Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "LAA",
+			"codeDescription": "LOANS"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "LAA",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF4",
+		"balances": [{
+			"type": "disbursedAmount",
+			"amountDetails": {
+				"amount": 180000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "dueAmount",
+			"amountDetails": {
+				"amount": -10000,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "010200066",
+		"userid": "suhas",
+		"accountNickName": "Home Loan",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "O",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:33",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "LON",
+			"codeDescription": "Loan Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "LAA",
+			"codeDescription": "LOANS"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "LAA",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF4",
+		"balances": [{
+			"type": "disbursedAmount",
+			"amountDetails": {
+				"amount": 20000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "dueAmount",
+			"amountDetails": {
+				"amount": -5000,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "010200061",
+		"userid": "admin",
+		"accountNickName": "Business Loan",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "O",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:34",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "LON",
+			"codeDescription": "Loan Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "LAA",
+			"codeDescription": "LOANS"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "LAA",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "Y",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "disbursedAmount",
+			"amountDetails": {
+				"amount": 20000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "dueAmount",
+			"amountDetails": {
+				"amount": -1200,
+				"currency": "USD"
+			}
+		}]
+	},
+
+	{
+		"accountId": "0010200059",
+		"userid": "nikhil",
+		"accountNickName": "Short Term",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:50",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "DEP",
+			"codeDescription": "Deposit Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "TDA",
+			"codeDescription": "TERM DEPOSIT"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "TDA",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF2",
+		"balances": [{
+			"type": "maturityAmount",
+			"amountDetails": {
+				"amount": 1030,
+				"currency": "USD"
+			}
+		}, {
+			"type": "depositAmount",
+			"amountDetails": {
+				"amount": 1000,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "0010200056",
+		"userid": "suhas",
+		"accountNickName": "Short Term",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:50",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "DEP",
+			"codeDescription": "Deposit Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "TDA",
+			"codeDescription": "TERM DEPOSIT"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "TDA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF2",
+		"balances": [{
+			"type": "maturityAmount",
+			"amountDetails": {
+				"amount": 23000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "depositAmount",
+			"amountDetails": {
+				"amount": 20000,
+				"currency": "USD"
+			}
+		}]
+
+	},
+	{
+		"accountId": "000003704",
+		"userid": "nikhil",
+		"accountNickName": "Tax Saving",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:51",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "DEP",
+			"codeDescription": "Deposit Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "TDA",
+			"codeDescription": "TERM DEPOSIT"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "TDA",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "Y",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF3",
+		"balances": [{
+			"type": "maturityAmount",
+			"amountDetails": {
+				"amount": 3090,
+				"currency": "USD"
+			}
+		}, {
+			"type": "depositAmount",
+			"amountDetails": {
+				"amount": 3000,
+				"currency": "USD"
+			}
+		}]
+	}, {
+		"accountId": "000003700",
+		"userid": "sumedh",
+		"accountNickName": "Long Term",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:51",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "DEP",
+			"codeDescription": "Deposit Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "TDA",
+			"codeDescription": "TERM DEPOSIT"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "TDA",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "Y",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "maturityAmount",
+			"amountDetails": {
+				"amount": 5290,
+				"currency": "USD"
+			}
+		}, {
+			"type": "depositAmount",
+			"amountDetails": {
+				"amount": 4700,
+				"currency": "USD"
+			}
+		}]
+	}, {
+		"accountId": "000003708",
+		"userid": "sumedh",
+		"accountNickName": "John's Credit Card",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:53",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "CCD",
+			"codeDescription": "Deposit Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "CCD",
+			"codeDescription": "CREDIT CARD ACCOUNT"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "CCD",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF3",
+		"balances": [{
+			"type": "availableCreditLimit",
+			"amountDetails": {
+				"amount": 11022.55,
+				"currency": "USD"
+			}
+		}, {
+			"type": "depositAmount",
+			"amountDetails": {
+				"amount": 1804.51,
+				"currency": "USD"
+			}
+		}]
+
+	},
+	{
+		"accountId": "000003710",
+		"userid": "suhas",
+		"accountNickName": "Dummy Credit Card",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:53",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "CCD",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "CCD",
+			"codeDescription": "CREDIT CARD ACCOUNT"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "CCD",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "availableCreditLimit",
+			"amountDetails": {
+				"amount": 14000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "depositAmount",
+			"amountDetails": {
+				"amount": 2080,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "010200069",
+		"userid": "nikhil",
+		"accountNickName": "Savings Account",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "SBA",
+			"codeDescription": "SAVING BANK A/C"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "totalBalance",
+			"amountDetails": {
+				"amount": 1200,
+				"currency": "USD"
+			}
+		}, {
+			"type": "availableBalance",
+			"amountDetails": {
+				"amount": 1200,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "010200080",
+		"userid": "nikhil",
+		"accountNickName": "Expense Account",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Cash Credit "
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "CCA",
+			"codeDescription": "Cash Credit A/C"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "totalBalance",
+			"amountDetails": {
+				"amount": 1200,
+				"currency": "USD"
+			}
+		}, {
+			"type": "availableBalance",
+			"amountDetails": {
+				"amount": 1200,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "1234123412341235",
+		"userid": "admin",
+		"accountNickName": "RETDDD16",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "001",
+			"codeDescription": "Open"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "CCD",
+			"codeDescription": ""
+		},
+		"accountType": {
+			"codeType": "CCD",
+			"cmCode": "CCD",
+			"codeDescription": "Credit Card"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "CCD",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RET19",
+		"balances": [{
+				"type": "availableBalance",
+				"amountDetails": {
+					"amount": 530,
+					"currency": "USD"
+				}
+			},
+			{
+				"type": "availableOutstandingBalance",
+				"amountDetails": {
+					"amount": 530,
+					"currency": "USD"
+				}
+			}
+		]
+	},
+	{
+		"accountId": "1234123412341234",
+		"userid": "nikhil",
+		"accountNickName": "RETDDD16",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "001",
+			"codeDescription": "Open"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "CCD",
+			"codeDescription": ""
+		},
+		"accountType": {
+			"codeType": "CCD",
+			"cmCode": "CCD",
+			"codeDescription": "Credit Card"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "CCD",
+			"codeDescription": ""
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RET19",
+		"balances": [{
+				"type": "availableBalance",
+				"amountDetails": {
+					"amount": 530,
+					"currency": "USD"
+				}
+			},
+			{
+				"type": "availableOutstandingBalance",
+				"amountDetails": {
+					"amount": 530,
+					"currency": "USD"
+				}
+			}
+		]
+	},
+	{
+		"accountId": "010200082",
+		"userid": "suhas",
+		"accountNickName": "Corp Saving",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "SBA",
+			"codeDescription": "SAVING BANK A/C"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "totalBalance",
+			"amountDetails": {
+				"amount": 12020,
+				"currency": "USD"
+			}
+		}, {
+			"type": "availableBalance",
+			"amountDetails": {
+				"amount": 12020,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "010200084",
+		"userid": "nikhil",
+		"accountNickName": "Corp TERM DEPOSIT B",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "GBP",
+			"codeDescription": "GBP"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "ACT",
+			"cmCode": "DEP",
+			"codeDescription": "Deposit Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "TDA",
+			"codeDescription": "TERM DEPOSIT"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "maturityAmount",
+			"amountDetails": {
+				"amount": 1442020,
+				"currency": "USD"
+			}
+		}, {
+			"type": "depositAmount",
+			"amountDetails": {
+				"amount": 442020,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "010200086",
+		"userid": "sumedh",
+		"accountNickName": "Corp TERM DEPOSIT X",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "TDA",
+			"codeDescription": "TERM DEPOSIT"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "maturityAmount",
+			"amountDetails": {
+				"amount": 1211020,
+				"currency": "USD"
+			}
+		}, {
+			"type": "depositAmount",
+			"amountDetails": {
+				"amount": 211020,
+				"currency": "USD"
+			}
+		}]
+	},
+	{
+		"accountId": "010200085",
+		"userid": "suhas",
+		"accountNickName": "Corp TERM DEPOSIT X",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "A",
+			"codeDescription": "Active"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "GBP",
+			"codeDescription": "GBP"
+		},
+		"asOfDate": "2016-08-02T15:57:32",
+		"accountOpenDate": "1987-02-28T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "OPR",
+			"codeDescription": "Operative Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "TDA",
+			"codeDescription": "TERM DEPOSIT"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "SBA",
+			"codeDescription": ""
+		},
+		"branchCode": "102",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "RCIF1",
+		"balances": [{
+			"type": "maturityAmount",
+			"amountDetails": {
+				"amount": 1202000,
+				"currency": "USD"
+			}
+		}, {
+			"type": "depositAmount",
+			"amountDetails": {
+				"amount": 202000,
+				"currency": "USD"
+			}
+		}]
+	},
+
+	{
+		"accountId": "CRP00104693",
+		"userid": "nikhil",
+		"accountNickName": "CAPITAL LOAN 1",
+		"accountStatus": {
+			"codeType": "ACS",
+			"cmCode": "O",
+			"codeDescription": "Open"
+		},
+		"accountCurrency": {
+			"codeType": "CRN",
+			"cmCode": "USD",
+			"codeDescription": "USD"
+		},
+		"asOfDate": "2017-12-06T16:48:04",
+		"accountOpenDate": "1988-01-05T00:00:00",
+		"accountAccessIndicator": {
+			"codeType": "UAA",
+			"cmCode": "N",
+			"codeDescription": "Transaction and Inquiry allowed"
+		},
+		"parentAccountType": {
+			"codeType": "MAT",
+			"cmCode": "LON",
+			"codeDescription": "Loan Accounts"
+		},
+		"accountType": {
+			"codeType": "ACT",
+			"cmCode": "LAA",
+			"codeDescription": "LOANS"
+		},
+		"productCategory": {
+			"codeType": "PRDC",
+			"cmCode": "LAA",
+			"codeDesc": "Capital"
+		},
+		"branchCode": "502",
+		"isJointAccount": "N",
+		"customerType": {
+			"codeType": "CTP",
+			"cmCode": "INT",
+			"codeDescription": "Own"
+		},
+		"customerId": "CORP228",
+		"balances": [{
+				"type": "disbursedAmount",
+				"amountDetails": {
+					"amount": 1000000,
+					"currency": "USD"
+				}
+			},
+			{
+				"type": "dueAmount",
+				"amountDetails": {
+					"amount": 800000,
+					"currency": "USD"
+				}
+			}
+		]
+	}
+]

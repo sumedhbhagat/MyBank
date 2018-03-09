@@ -1,0 +1,107 @@
+{
+  "name": "Account",
+  "plural": "Accounts",
+  "base": "PersistedModel",
+  "idInjection": false,
+    "mixins": {
+      
+    },
+  "options": {
+    "validateUpsert": true
+  },
+   "properties": {
+
+    "customerType": {
+      "type": "Object"
+    },
+
+    "customerID": {
+      "type": "string",
+      "length": 160
+    },
+
+    "userid": {
+      "type": "string"
+    },
+    "accountId": {
+      "type": "string",
+      "id": true,
+      "length": 34
+    },
+
+    "accountNickName": {
+      "type": "string",
+      "length": 80
+    },
+
+     "accountName": {
+      "type": "string"
+    },
+
+     "accountType": {
+      "type": "Object"
+
+    },
+
+    "accountCurrency": {
+      "type": "Object"
+    },
+
+    "asOfDate": {
+      "type": "date"
+    },
+
+    "accountAccessIndicator": {
+      "type": "Object"
+
+    },
+
+    "parentAccountType": {
+      "type": "Object"
+
+    },
+
+    "accountStatus": {
+      "type": "Object"
+    },
+
+    "accountOpenDate": {
+      "type": "date"
+    },
+
+    "productCategory": {
+      "type": "Object"
+
+    },
+
+    "branchCode": {
+      "type": "String",
+      "length": 32
+    },
+
+    "isJointAccount": {
+      "type": "String",
+      "length": 1
+    },
+
+    "balances": {
+      "type":"any"
+    },
+
+    "links": {
+      "type":"Object"
+    }
+  },
+
+
+  "validations": [],
+  "relations": {},
+  "acls": [
+  {
+    "principalType": "ROLE",
+    "principalId": "$everyone",
+    "permission": "DENY"
+  }
+    ],
+  "methods": {}
+}

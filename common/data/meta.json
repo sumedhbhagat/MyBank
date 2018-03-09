@@ -4,4 +4,7 @@
 }, {
 	"model": "BankUser",
 	"filename": "Bankuser.json"
+}, {
+	"model": "Account",
+	"filename": "Account.json"
 }]

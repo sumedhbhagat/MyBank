@@ -1,0 +1,46 @@
+{
+    "name": "Customer",
+    "base": "PersistedModel",
+    "plural": "Customers",
+    "strict": false,
+    "idInjection": false,
+    "options": {
+        "validateUpsert": true
+    },
+    "properties": {
+        "userType": "string",
+		"custId": "string",
+        "corpId": "string",
+        "city": "string",
+        "branch": "string",
+        "bankid": "string",
+        "password": "string",
+        "email": "string",
+        "mobileNo": "string",
+        "firebaseToken": "string",
+        "userDetail": {
+            "type": "Object"
+        },
+        "pan": {
+            "type": "string",
+            "max": 10
+        },
+        "adhar": {
+            "type": "string",
+            "max": 12
+        },
+        "address": {
+            "type": "Object"
+        },
+        "primaryAccountId": {
+            "type": "string",
+            "max": 34
+        },
+        "creditHealth": {
+            "type": "Object"
+        }
+    },
+
+    "relations": {},
+    "acls": []
+}
