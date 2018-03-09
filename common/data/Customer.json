@@ -9,17 +9,9 @@
         "email": "sumedh@ev.com",
         "mobileNo": "9898989891",
         "firebaseToken": "",
-        "userDetail": {
-            "type": ""
-        },
-        "pan": {
-            "type": "3434343434",
-            "max": 10
-        },
-        "adhar": {
-            "type": "342345345645",
-            "max": 12
-        }
+        "userDetail": {},
+        "pan": "1222221122",
+        "adhar": "342345345645"
     },
     {
         "userType": "R",
@@ -32,17 +24,9 @@
         "email": "nikhil@ev.com",
         "mobileNo": "9898989891",
         "firebaseToken": "",
-        "userDetail": {
-            "type": ""
-        },
-        "pan": {
-            "type": "3434343434",
-            "max": 10
-        },
-        "adhar": {
-            "type": "342345345645",
-            "max": 12
-        }
+        "userDetail": {},
+        "pan": "443344334444",
+        "adhar": "5555555555"
     },
     {
         "userType": "R",
@@ -55,17 +39,9 @@
         "email": "vidyanand@ev.com",
         "mobileNo": "9898989891",
         "firebaseToken": "",
-        "userDetail": {
-            "type": ""
-        },
-        "pan": {
-            "type": "3434343434",
-            "max": 10
-        },
-        "adhar": {
-            "type": "342345345645",
-            "max": 12
-        }
+        "userDetail": {},
+        "pan": "443344334444",
+        "adhar": "9090909090"
     },
     {
         "userType": "R",
@@ -78,16 +54,8 @@
         "email": "suhas@ev.com",
         "mobileNo": "9898989891",
         "firebaseToken": "",
-        "userDetail": {
-            "type": ""
-        },
-        "pan": {
-            "type": "3434343434",
-            "max": 10
-        },
-        "adhar": {
-            "type": "342345345645",
-            "max": 12
-        }
+        "userDetail": {},
+        "pan": "443344334444",
+        "adhar": "9090909090"
     }
 ]
