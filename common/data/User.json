@@ -1,0 +1,52 @@
+[
+  {
+    "realm": "Mr",
+    "username": "Suhas",
+    "email": "suhas@gmail.com",
+    "emailVerified": true,
+    "password":"Suhas",
+    "PAN":"SUHAS12345",
+    "AADHAR":"SUHAS12345",
+    "Mobile":"1234567890"
+  },
+  {
+    "realm": "Mr",
+    "username": "Sumedh",
+    "email": "Sumedh@gmail.com",
+    "emailVerified": true,
+    "password":"Sumedh",
+    "PAN":"SUMEDH12345",
+    "AADHAR":"SUMEDH12345",
+    "Mobile":"789456123"
+  },
+  {
+    "realm": "Mr",
+    "username": "Vidyanand",
+    "email": "vidyanand@gmail.com",
+    "emailVerified": true,
+    "password":"Vidyanand",
+    "PAN":"VIDYANAND12345",
+    "AADHAR":"VIDYANAND12345",
+    "Mobile":"456123789"
+  },
+  {
+    "realm": "Mr",
+    "username": "Nikhil",
+    "email": "nikhil@gmail.com",
+    "emailVerified": true,
+    "password":"Nikhil",
+    "PAN":"NIKHIL12345",
+    "AADHAR":"NIKHIL12345",
+    "Mobile":"561234789"
+  },
+  {
+    "realm": "Mr",
+    "username": "admin",
+    "email": "admin@gmail.com",
+    "emailVerified": true,
+    "password":"admin",
+    "PAN":"admin12345",
+    "AADHAR":"admin12345",
+    "Mobile":"561234789"
+  }
+]

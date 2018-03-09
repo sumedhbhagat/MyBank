@@ -1,0 +1,80 @@
+{
+    "name": "Transfer",
+    "plural": "Transfers",
+    "base": "PersistedModel",
+    "strict": false,
+    "idInjection": false,
+    "options": {
+        "validateUpsert": true
+    },
+    "mixins": {},
+    "properties": {
+        "userId": {
+            "type": "String"
+        },
+        "referenceId": {
+            "type": "String",
+            "id": true
+        },
+        "transactionType": {
+            "type": "Object"
+        },
+        "transactionStatus": {
+            "type": "Object"
+        },
+        "frequencyType": {
+            "type": "Object"
+        },
+        "transactionDate": {
+            "type": "date"
+        },
+        "fromAccountId": {
+            "type": "String"
+        },
+        "fromAccountNickname": {
+            "type": "String"
+        },
+        "toAccountId": {
+            "type": "String"
+        },
+        "toAccountNickname": {
+            "type": "String"
+        },
+        "totalTransactionAmount": {
+            "type": "string"
+        },
+        "transactionCurrency": {
+            "type": "Object"
+        },
+        "entityType": {
+            "type": "Object"
+        },
+        "onHoldFlag": {
+            "type": "String"
+        },
+        "markedForStop": {
+            "type": "String"
+        },
+        "requestedBy": {
+            "type": "String"
+        },
+        "confirmationDetails": {
+            "type": "Object"
+        },
+        "transactionDetails": {
+            "type": "Object"
+        },
+        "additionalDetails": {
+            "type": "Object"
+        },
+        "recurringDetails": {
+            "type": "Object"
+        },
+        "links": {
+            "type": "array"
+        }
+    },
+    "validations": [],
+    "relations": {},
+    "methods": {}
+}

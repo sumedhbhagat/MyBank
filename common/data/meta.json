@@ -1,0 +1,7 @@
+[{
+	"model": "Transfer",
+	"filename": "Transfer.json"
+}, {
+	"model": "BankUser",
+	"filename": "Bankuser.json"
+}]
