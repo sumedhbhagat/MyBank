@@ -9,6 +9,11 @@
     },
     "properties": {
         "userType": "string",
+		"name":"string",
+		"dob":{
+            "type": "date"
+        },
+		"sex":"string",
 		"custId": "string",
         "corpId": "string",
         "city": "string",

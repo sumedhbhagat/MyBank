@@ -1,6 +1,9 @@
 [{
         "userType": "R",
         "custId": "sumedh",
+		"name":"Sumedh",
+		"dob":"1981-04-08T00:00:00",
+		"sex":"M",
         "corpId": "",
         "city": "PUNE",
         "branch": "SHIVAJI NAGAR",
@@ -16,6 +19,9 @@
     {
         "userType": "R",
         "custId": "nikhil",
+		"name":"Nikhil",
+		"dob":"1991-04-08T00:00:00",
+		"sex":"M",
         "corpId": "",
         "city": "PUNE",
         "branch": "SHIVAJI NAGAR",
@@ -31,6 +37,9 @@
     {
         "userType": "R",
         "custId": "vidyanand",
+		"name":"Sumedh",
+		"dob":"1985-04-08T00:00:00",
+		"sex":"M",
         "corpId": "",
         "city": "PUNE",
         "branch": "SHIVAJI NAGAR",
@@ -46,6 +55,9 @@
     {
         "userType": "R",
         "custId": "suhas",
+		"name":"Sumedh",
+		"dob":"1979-04-08T00:00:00",
+		"sex":"M",
         "corpId": "",
         "city": "PUNE",
         "branch": "SHIVAJI NAGAR",
