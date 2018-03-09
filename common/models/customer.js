@@ -25,7 +25,7 @@ module.exports = function(Customer) {
         accepts: [
             {arg: 'identity', type: 'string'},
             {arg: 'name', type: 'string'},
-            {arg: 'dob', type: 'date'}
+            {arg: 'dob', type: 'string'}
         ],
         returns: {arg: 'customerId', type: 'string'}
     });

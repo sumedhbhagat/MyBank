@@ -1,6 +1,7 @@
-[{
+[
+{
 		"accountId": "010200067",
-		"customerId": "admin",
+		"customerId": "sumedh",
 		"accountNickName": "Salary Account",
 		"accountStatus": {
 			"codeType": "ACS",
@@ -271,7 +272,7 @@
 			"cmCode": "INT",
 			"codeDescription": "Own"
 		},
-		"customerId": "RCIF4",
+		"customerId": "nikhil",
 		"balances": [{
 			"type": "totalBalance",
 			"amountDetails": {
@@ -329,7 +330,7 @@
 			"cmCode": "INT",
 			"codeDescription": "Own"
 		},
-		"customerId": "RCIF1",
+		"customerId": "suhas",
 		"balances": [{
 			"type": "totalBalance",
 			"amountDetails": {
@@ -388,7 +389,7 @@
 			"cmCode": "INT",
 			"codeDescription": "Own"
 		},
-		"customerId": "RCIF4",
+		"customerId": "sumedh",
 		"balances": [{
 			"type": "disbursedAmount",
 			"amountDetails": {
@@ -446,7 +447,7 @@
 			"cmCode": "INT",
 			"codeDescription": "Own"
 		},
-		"customerId": "RCIF4",
+		"customerId": "nikhil",
 		"balances": [{
 			"type": "disbursedAmount",
 			"amountDetails": {

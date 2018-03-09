@@ -11,7 +11,7 @@
         "userType": "string",
 		"name":"string",
 		"dob":{
-            "type": "date"
+            "type": "string"
         },
 		"sex":"string",
 		"custId": "string",
