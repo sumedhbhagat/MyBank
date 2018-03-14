@@ -1,0 +1,46 @@
+[
+	{
+		"customerId":"sumedh",
+		"accountId":"123456",
+		"transactionId":"abc123345",
+		"transactionDate":"2017-10-27T00:00:00",
+		"trasactionType":"Credit",
+		"transactionAmount":"1250",
+		"transactionCurrency":"USD",
+		"transactionRemarks":"Transaction from CP",
+		"transactionCategory":"Shopping"
+	},
+	{
+		"customerId":"nikhil",
+		"accountId":"12345",
+		"transactionId":"abc123345",
+		"transactionDate":"2017-10-27T00:00:00",
+		"trasactionType":"Credit",
+		"transactionAmount":"200",
+		"transactionCurrency":"USD",
+		"transactionRemarks":"Transaction from CP",
+		"transactionCategory":"Shopping"
+	},
+	{
+		"customerId":"suhas",
+		"accountId":"1234",
+		"transactionId":"abc123345",
+		"transactionDate":"2017-10-27T00:00:00",
+		"trasactionType":"Debit",
+		"transactionAmount":"120",
+		"transactionCurrency":"USD",
+		"transactionRemarks":"Transaction from CP",
+		"transactionCategory":"Shopping"
+	},
+	{
+		"customerId":"sumedh",
+		"accountId":"1234568",
+		"transactionId":"abc123345",
+		"transactionDate":"2017-10-27T00:00:00",
+		"trasactionType":"Debit",
+		"transactionAmount":"1300",
+		"transactionCurrency":"USD",
+		"transactionRemarks":"Transaction from CP",
+		"transactionCategory":"Shopping"
+	}
+]

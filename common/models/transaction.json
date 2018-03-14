@@ -1,0 +1,44 @@
+{
+    "name": "Transaction",
+    "plural": "Transaction",
+    "base": "PersistedModel",
+    "strict": false,
+    "idInjection": false,
+    "options": {
+        "validateUpsert": true
+    },
+    "mixins": {},
+    "properties": {
+        "customerId": {
+            "type": "String",
+	    "id" : true
+        },
+        "accountId": {
+            "type": "String"
+        },
+        "transactionId": {
+            "type": "String"
+        },
+        "transactionDate": {
+            "type": "date"
+        },
+        "transactionType": {
+            "type": "String"
+        },
+        "transactionAmount": {
+            "type": "Number"
+        },
+        "transactionCurrency": {
+            "type": "String"
+        },
+        "transactionRemarks": {
+            "type": "String"
+        },
+	"transactionCatogory":{
+	    "type": "String"
+        }
+    },
+    "validations": [],
+    "relations": {},
+    "methods": {}
+}
